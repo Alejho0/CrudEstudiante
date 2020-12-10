@@ -1,0 +1,32 @@
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\bin\Debug\AppEstudiantesCRUD.exe.config
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\bin\Debug\AppEstudiantesCRUD.exe
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\bin\Debug\AppEstudiantesCRUD.pdb
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.csprojAssemblyReference.cache
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.Form1.resources
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.Properties.Resources.resources
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.csproj.GenerateResource.cache
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.exe
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.pdb
+E:\adsi\III Trimestre\Programacion .NET\Clase V\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.MenuPrincipal.resources
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\bin\Debug\AppEstudiantesCRUD.exe.config
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\bin\Debug\AppEstudiantesCRUD.exe
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\bin\Debug\AppEstudiantesCRUD.pdb
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.csprojAssemblyReference.cache
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.Form1.resources
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.MenuPrincipal.resources
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.Properties.Resources.resources
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.csproj.GenerateResource.cache
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.csproj.CoreCompileInputs.cache
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.exe
+C:\Users\LAITON\source\repos\CRUD_Estudiante-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.pdb
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\bin\Debug\AppEstudiantesCRUD.exe.config
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\bin\Debug\AppEstudiantesCRUD.exe
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\bin\Debug\AppEstudiantesCRUD.pdb
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.csprojAssemblyReference.cache
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.MenuPrincipal.resources
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.Properties.Resources.resources
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.csproj.GenerateResource.cache
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.exe
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.pdb
+C:\Users\Jualf\Downloads\AppEstudianteCRUD-master\AppEstudiantesCRUD\AppEstudiantesCRUD\obj\Debug\AppEstudiantesCRUD.Crud.resources
